@@ -6,11 +6,11 @@
 Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
 
 ## Desafio
-Neste repositório tem uma estrutura básica já pré-montada de um layout simples com um pouco de CSS aplicado. Apenas para deixar mais apresentável.
+Desafio imposto por nosso professor no Dio.me e concluído por mim.
 
-Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quiserem. O intuito aqui é divertir, e ao mesmo tempo aprender com o desafio.
+Poderia ter feito até algo mais avançado com o conhecimento que obti nas aulas, mas com pouco tempo já fiz algo divertido.
 
-Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
+Acredito que melhorei muito na semântica mesmo tendo coisas ainda a tratar e melhorar e também na acessibilidade que sempre vou ter em meus projetos.
 
 ## Links úteis
 - [Download do NVDA](https://www.nvaccess.org/download/)
